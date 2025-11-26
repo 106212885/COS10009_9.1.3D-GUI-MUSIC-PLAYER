@@ -1,0 +1,44 @@
+4
+NEVER ENOUGH
+Daniel Caesar
+images/NEVER ENOUGH - DANIEL CAESAR.png
+3
+Always
+songs/always.wav
+Toronto 2014 (with Mustafa)
+songs/toronto2014.wav
+Let Me Go
+songs/letmego.wav
+
+NECTAR
+Joji
+images/NECTAR - JOJI.png
+3
+Sanctuary
+songs/sanctuary.wav
+Like You Do
+songs/likeyoudo.wav
+Afterthought
+songs/afterthought.wav
+
+HARD TO IMAGINE THE NEIGHBOURHOOD EVER CHANGING
+The Neighbourhood
+images/HARD TO IMAGINE THE NEIGHBOURHOOD EVER CHANGING - THE NEIGHBOURHOOD.jpeg
+3
+Reflections
+songs/reflections.wav
+Nervous
+songs/nervous.wav
+Softcore
+songs/softcore.wav
+
+BLONDE
+Frank Ocean
+images/BLONDE - FRANK OCEAN.jpeg
+3
+Ivy
+songs/ivy.wav
+Nights
+songs/nights.wav
+White Ferrari
+songs/whiteferrari.wav
